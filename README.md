@@ -15,3 +15,8 @@ This repository contains the packages, docs and examples for uploadthing
 - React Package - @uploadthing/react - the components and hooks for using uploadthing in your React projects
 - Solid Package - @uploadthing/solid - the components and hooks for using uploadthing in your Solid projects
 - uploadthing - server/client stuff (framework agnostic)
+
+[news-agents-MCP](https://github.com/eugeneyan/news-agents)
+A little experiment with Amazon Q, Model Context Protocol (MCP), and tmux to create a news aggregation system that runs entirely in your terminal. It fetches and summarizes articles from various news sources using multiple agents working in parallel.
+
+-- https://eugeneyan.com/writing/news-agents/
